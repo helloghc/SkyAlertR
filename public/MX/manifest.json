@@ -1,0 +1,18 @@
+{
+  "name": "SkyAlert News MX",
+  "short_name": "SkyAlert News MX",
+  "theme_color": "#FF5722",
+  "background_color": "#FF5722",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "description": "Una aplicación de SkyAlert para las noticias.",
+  "icons": [
+    {
+      "src": "/images/icons/MX.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": "background_color"
+}

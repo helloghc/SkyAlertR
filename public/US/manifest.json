@@ -1,0 +1,18 @@
+{
+  "name": "SkyAlert News USA",
+  "short_name": "SkyAlert News USA",
+  "theme_color": "#CC0000",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "description": "A simply readable SkyAlert News app.",
+  "icons": [
+    {
+      "src": "/images/icons/USA.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": "name"
+}
